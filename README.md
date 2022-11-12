@@ -12,3 +12,19 @@
 
 `python ФТ-210007Бельский.py`
 
+# Примеры работы программы
+
+- 1 Тест
+
+![Img alt](https://github.com/retxrika/Burrels/blob/master/images/1.png)
+
+- 2 Тест
+
+![Img alt](https://github.com/retxrika/Burrels/blob/master/images/2.png)
+
+- 3 Тест
+
+![Img alt](https://github.com/retxrika/Burrels/blob/master/images/3_1.png)
+
+![Img alt](https://github.com/retxrika/Burrels/blob/master/images/3_2.png)
+
